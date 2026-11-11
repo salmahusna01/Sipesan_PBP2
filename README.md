@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # si_pesan_pbp2
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Sipesan_PBP2
+>>>>>>> 24c7f8bade77ddf054ec12f2e4b55b40a9a63689
